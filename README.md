@@ -1,5 +1,7 @@
 # firebaseJavascript
 
+This is an exercise for HY course Distributed Systems 2018.
+
 Javascript implementation of Firebase.
 
 How to use
